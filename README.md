@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm MJ</h1>
-<h3 align="center">A passionate software building Web APIs | Mobile Apps | Tutoring Python!</h3>
+<h3 align="center">Building Web APIs | Mobile Apps | Tutoring Python!</h3>
 
 <p align="left"> <a href="https://twitter.com/mjalbdour" target="blank"><img src="https://img.shields.io/twitter/follow/mjalbdour?logo=twitter&style=for-the-badge" alt="mjalbdour" /></a> </p>
 
